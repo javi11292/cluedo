@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/cluedo/static/css/main.cd9990da.chunk.css",
+    "main.js": "/cluedo/static/js/main.375604d6.chunk.js",
+    "runtime-main.js": "/cluedo/static/js/runtime-main.49b94704.js",
+    "static/js/2.26d7a46a.chunk.js": "/cluedo/static/js/2.26d7a46a.chunk.js",
+    "index.html": "/cluedo/index.html",
+    "precache-manifest.774e62d8be347668028a63731a09e2cf.js": "/cluedo/precache-manifest.774e62d8be347668028a63731a09e2cf.js",
+    "service-worker.js": "/cluedo/service-worker.js",
+    "static/js/2.26d7a46a.chunk.js.LICENSE.txt": "/cluedo/static/js/2.26d7a46a.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.49b94704.js",
+    "static/js/2.26d7a46a.chunk.js",
+    "static/css/main.cd9990da.chunk.css",
+    "static/js/main.375604d6.chunk.js"
+  ]
+}
