@@ -25,7 +25,6 @@
     "puppeteerArgs": [
       "--no-sandbox"
     ],
-    "puppeteerExecutablePath": "/usr/bin/chromium-browser",
     "asyncScriptTags": true,
     "inlineCss": true
   },
