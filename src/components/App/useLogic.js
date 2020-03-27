@@ -1,7 +1,16 @@
 import { useState, useEffect } from "react"
+import useStore from "hooks/useStore"
+import { cardsDB } from "libraries/database"
 
 function useLogic() {
   const [update, setUpdate] = useState()
+  const setCards = useStore("cards", false)
+
+  useEffect(() => {
+    cardsDB.iterate(value => {
+      setCards({ action: "add", value })
+    })
+  }, [setCards])
 
   useEffect(() => {
     function callback({ detail }) {

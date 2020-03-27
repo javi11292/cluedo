@@ -1,0 +1,61 @@
+.root :global .MuiDialog-paper {
+  margin: 1rem;
+}
+
+.cards {
+  display: grid;
+  grid-template-columns: auto;
+  margin: 0.5rem;
+}
+
+.card {
+  border-radius: 0.5rem;
+  background: var(--paletteSecondaryMain);
+  width: 6rem;
+  height: 6rem;
+  margin: 0.5rem;
+  font-size: 0.75rem;
+}
+
+.card:hover {
+  background: var(--paletteSecondaryLight);
+}
+
+@media (hover: none) {
+  .card:hover {
+    background: var(--paletteSecondaryMain);
+  }
+}
+
+.addCard {
+  composes: card;
+  background: var(--palettePrimaryMain);
+}
+
+.addCard:hover {
+  background: var(--palettePrimaryLight);
+}
+
+@media (hover: none) {
+  .addCard:hover {
+    background: var(--palettePrimaryMain);
+  }
+}
+
+.add {
+  width: 70%;
+  height: 70%;
+}
+
+.columns {
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr;
+}
+
+.column {
+  white-space: nowrap;
+}
+
+.item :global .MuiListItemText-primary {
+  font-size: 0.75rem;
+}
