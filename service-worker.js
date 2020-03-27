@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/cluedo/precache-manifest.774e62d8be347668028a63731a09e2cf.js"
+  "/cluedo/precache-manifest.1dcc096e3379f23bef1875ed245698b8.js"
 );
 
 self.addEventListener('message', (event) => {

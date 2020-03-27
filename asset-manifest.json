@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "/cluedo/static/css/main.cd9990da.chunk.css",
-    "main.js": "/cluedo/static/js/main.375604d6.chunk.js",
+    "main.css": "/cluedo/static/css/main.554c67e1.chunk.css",
+    "main.js": "/cluedo/static/js/main.f1f51c54.chunk.js",
     "runtime-main.js": "/cluedo/static/js/runtime-main.49b94704.js",
-    "static/js/2.26d7a46a.chunk.js": "/cluedo/static/js/2.26d7a46a.chunk.js",
+    "static/js/2.a1ab67e5.chunk.js": "/cluedo/static/js/2.a1ab67e5.chunk.js",
     "index.html": "/cluedo/index.html",
-    "precache-manifest.774e62d8be347668028a63731a09e2cf.js": "/cluedo/precache-manifest.774e62d8be347668028a63731a09e2cf.js",
+    "precache-manifest.1dcc096e3379f23bef1875ed245698b8.js": "/cluedo/precache-manifest.1dcc096e3379f23bef1875ed245698b8.js",
     "service-worker.js": "/cluedo/service-worker.js",
-    "static/js/2.26d7a46a.chunk.js.LICENSE.txt": "/cluedo/static/js/2.26d7a46a.chunk.js.LICENSE.txt"
+    "static/js/2.a1ab67e5.chunk.js.LICENSE.txt": "/cluedo/static/js/2.a1ab67e5.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.49b94704.js",
-    "static/js/2.26d7a46a.chunk.js",
-    "static/css/main.cd9990da.chunk.css",
-    "static/js/main.375604d6.chunk.js"
+    "static/js/2.a1ab67e5.chunk.js",
+    "static/css/main.554c67e1.chunk.css",
+    "static/js/main.f1f51c54.chunk.js"
   ]
 }
